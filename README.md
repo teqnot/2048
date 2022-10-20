@@ -1,4 +1,7 @@
 # 2048.cpp
+
+![alt text](https://ibb.co/m6g55bz)
+
 #### Terminal version of "2048" written in C++
 
 The game is made to run natively on Windows based systems.
