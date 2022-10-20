@@ -1,0 +1,12 @@
+﻿  2048.cpp
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(153,60): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(154,71): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(168,60): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(169,71): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(182,59): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(183,69): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(196,59): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(197,71): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(351): warning C4715: winGame: значение возвращается не при всех путях выполнения
+C:\Users\Александр\source\repos\2048\2048\2048.cpp(387): warning C4715: endGame: значение возвращается не при всех путях выполнения
+  2048.vcxproj -> C:\Users\Александр\source\repos\2048\Debug\2048.exe
