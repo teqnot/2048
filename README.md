@@ -1,6 +1,6 @@
 # 2048.cpp
 
-![alt text](https://ibb.co/m6g55bz)
+![image](https://user-images.githubusercontent.com/56765759/197078534-9a6e4992-4d2b-41c0-9807-b44b614a04fd.png)
 
 #### Terminal version of "2048" written in C++
 
